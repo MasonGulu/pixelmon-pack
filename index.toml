@@ -41,11 +41,6 @@ hash = "383970ed71cabc433f35608cb870cd81eab3ab7676301e01ce1f873ce422860c"
 metafile = true
 
 [[files]]
-file = "mods/ferritecore.pw.toml"
-hash = "d66b63b22e665a07e450b83296e8647f9f53d095a0d5ce118194a0ab7b87ed45"
-metafile = true
-
-[[files]]
 file = "mods/keep-some-inventory.pw.toml"
 hash = "e80bdeeb3623608e95f20f3c15095f97238c3663443a3642d6614518e680594a"
 metafile = true
