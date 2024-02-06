@@ -1,0 +1,13 @@
+name = "Roughly Enough Items Server Component (REI-SC)"
+filename = "RoughlyEnoughItems-13.0.685-server-only.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/OM4ZYSws/versions/LvwR35T5/RoughlyEnoughItems-13.0.685-server-only.jar"
+hash-format = "sha1"
+hash = "c053528a1426ffbb7379d17feb38d77731145387"
+
+[update]
+[update.modrinth]
+mod-id = "OM4ZYSws"
+version = "LvwR35T5"

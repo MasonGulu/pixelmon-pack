@@ -1,0 +1,91 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "b50c7e23638bdf592e046d721f06dfc650b79dd847f92166a73ecd0e28016316"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "ca06b6b1791fcb7f3a823c712cf6a67b90dd1ed9b7234e9f5ece1adba9481850"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "9e20ee5e69d0ad5b8c56677692cc090e341f994851271e72498d07433b00a4ab"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "a5315a79979ad147bde76c8915b043f0c28a641f14387343e64d62a4ef4e2a55"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "29809316f13019e54d90ffad302d2704b8a328e8cfc2ea56564d9ec20f12a749"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "36e82c3d25f7afdba55f6a74c86e13ad60f9b79243f0729f4432c8270956a064"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "10c4fe3d4fbbf6dacf7ec0e4b49e33038b39f082ad3b22ae34ff4c424ffa7116"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "383970ed71cabc433f35608cb870cd81eab3ab7676301e01ce1f873ce422860c"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "d66b63b22e665a07e450b83296e8647f9f53d095a0d5ce118194a0ab7b87ed45"
+metafile = true
+
+[[files]]
+file = "mods/keep-some-inventory.pw.toml"
+hash = "e80bdeeb3623608e95f20f3c15095f97238c3663443a3642d6614518e680594a"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "f4a3150f511b1b31acc9d3cbf3ac12e6f6c9334103f671cb228409aeb3f7744e"
+metafile = true
+
+[[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "f97c0a85de826e7aba65e2b7a3cd8c518c3bba1e16292ad8000d73141f36c8cb"
+metafile = true
+
+[[files]]
+file = "mods/pixelmon.pw.toml"
+hash = "7ac35c05fe57cd4a3c94f6807b62b79f74f6e1d5b581c9b02d1622e9f463eced"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+hash = "85aa0b7864095864bc1b2e13556ab7e85423e22f637ca0a805acc046eb602626"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items-server-component.pw.toml"
+hash = "956498af87201347e658b03c9ee0b04930f355e8060a629f4e24d5909d68c068"
+metafile = true
+
+[[files]]
+file = "mods/scriptor-magicae.pw.toml"
+hash = "12f6dce3be321ecf1b23ab71aa85015be9c7436ff33870b73acc77e85228d9ec"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "4a5424ea15543d7f675128c7f9fbc4b7a2edfde70aea97e18b90736dd3cd5b46"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "5d77e9d1ba0a9e7d53144da6d5fdc9176d0a122b221c00158d64adbefe46d671"
+metafile = true

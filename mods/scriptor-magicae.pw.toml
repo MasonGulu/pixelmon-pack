@@ -1,0 +1,13 @@
+name = "Scriptor Magicae"
+filename = "scriptor-1.0.4-1.20.2-sgd-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7365dc61cc84e719cbc027b6a31e97d3e47a2500"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4991733
+project-id = 817436
