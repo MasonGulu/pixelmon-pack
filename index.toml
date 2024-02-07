@@ -2,80 +2,75 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "b50c7e23638bdf592e046d721f06dfc650b79dd847f92166a73ecd0e28016316"
-metafile = true
-
-[[files]]
-file = "mods/architectury-api.pw.toml"
-hash = "ca06b6b1791fcb7f3a823c712cf6a67b90dd1ed9b7234e9f5ece1adba9481850"
-metafile = true
-
-[[files]]
-file = "mods/balm.pw.toml"
-hash = "9e20ee5e69d0ad5b8c56677692cc090e341f994851271e72498d07433b00a4ab"
-metafile = true
-
-[[files]]
-file = "mods/cloth-config.pw.toml"
-hash = "29809316f13019e54d90ffad302d2704b8a328e8cfc2ea56564d9ec20f12a749"
-metafile = true
-
-[[files]]
-file = "mods/clumps.pw.toml"
-hash = "36e82c3d25f7afdba55f6a74c86e13ad60f9b79243f0729f4432c8270956a064"
+hash = "1e7d9b9a774ad5979818555362dbdf8b2600317c036a0995024ee24d719e34e0"
 metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "10c4fe3d4fbbf6dacf7ec0e4b49e33038b39f082ad3b22ae34ff4c424ffa7116"
+hash = "95685d09dcb6fc1247f565a05fb1269052437f23e523b2cfbf3cc50d3908563f"
 metafile = true
 
 [[files]]
-file = "mods/embeddium.pw.toml"
-hash = "383970ed71cabc433f35608cb870cd81eab3ab7676301e01ce1f873ce422860c"
+file = "mods/effortless-building.pw.toml"
+hash = "d89c4f77985a819af83f62dbe80e31faecba519d9515f4f891593cf07aafd1ba"
 metafile = true
 
 [[files]]
-file = "mods/keep-some-inventory.pw.toml"
-hash = "e80bdeeb3623608e95f20f3c15095f97238c3663443a3642d6614518e680594a"
+file = "mods/farmers-delight.pw.toml"
+hash = "0356009ae37c9c7eca5d839a021fbaca73de03480415fde73089e2c814873406"
 metafile = true
 
 [[files]]
-file = "mods/modernfix.pw.toml"
-hash = "f4a3150f511b1b31acc9d3cbf3ac12e6f6c9334103f671cb228409aeb3f7744e"
+file = "mods/immersive-engineering.pw.toml"
+hash = "8877652862afaca46d384d624aa036defb3da680a804e2f033019c9794c8c785"
 metafile = true
 
 [[files]]
-file = "mods/netherportalfix.pw.toml"
-hash = "f97c0a85de826e7aba65e2b7a3cd8c518c3bba1e16292ad8000d73141f36c8cb"
+file = "mods/jei.pw.toml"
+hash = "ff92a5ec91aef6655e13bcdf2d6246e701e0e8cf743ec0f69a04a84d6b0b5635"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-immersive-multiblocks.pw.toml"
+hash = "7205424e2988e8764a03e36a2ff32a47eeda5b38ef89e7b0d09b4094e8770d00"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "54a05a04fc4c2af06ed779b5269cd001ce8188e825ac11bd8895551d3863285b"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "192e5eb18bf16f882593c1a0dfca4343eb23808e60b3fa00adb2afbdd7f7b60f"
+metafile = true
+
+[[files]]
+file = "mods/pixelmon-information.pw.toml"
+hash = "57c6d890c4bac536932fac2a23897411f05780d0bff2b1aebc6cae5b90f9498a"
 metafile = true
 
 [[files]]
 file = "mods/pixelmon.pw.toml"
-hash = "7ac35c05fe57cd4a3c94f6807b62b79f74f6e1d5b581c9b02d1622e9f463eced"
+hash = "0e91cfb9af96c979c424cdeba8c9487e4d82af768a40362074698bf5449fc253"
 metafile = true
 
 [[files]]
-file = "mods/rei.pw.toml"
-hash = "85aa0b7864095864bc1b2e13556ab7e85423e22f637ca0a805acc046eb602626"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-items-server-component.pw.toml"
-hash = "956498af87201347e658b03c9ee0b04930f355e8060a629f4e24d5909d68c068"
-metafile = true
-
-[[files]]
-file = "mods/scriptor-magicae.pw.toml"
-hash = "12f6dce3be321ecf1b23ab71aa85015be9c7436ff33870b73acc77e85228d9ec"
+file = "mods/polymorph.pw.toml"
+hash = "8b80951a6a78f26b1e0ba54d1193cfc63743001fc4f105b30ca5bc4f67dcb05b"
 metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
-hash = "4a5424ea15543d7f675128c7f9fbc4b7a2edfde70aea97e18b90736dd3cd5b46"
+hash = "d330360e64d17b89882a0374519fb81c42c850a9c7a9b05454a348ceb132890f"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "3f7bdf144b09082021c01cce53753e045f7d2077912057c4f547f3cfe5854e81"
 metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "5d77e9d1ba0a9e7d53144da6d5fdc9176d0a122b221c00158d64adbefe46d671"
+hash = "4931c4e65980ea1a95a61b35b18e7e893d59befce9c0764c387aa7773c44b15f"
 metafile = true

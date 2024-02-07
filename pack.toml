@@ -1,13 +1,13 @@
-name = "Packwiz Pixelmon"
-author = "Shrekshellraiser"
+name = "Picklemon"
+author = "Mason"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "179fc64ddb71ac85c7583956646e11b4557e7b767d26fdfb521724c2aea68650"
+hash = "72bd10b9d7bbec955290d5c0bf0103514b1ce39ac3d7117ab1f6aaeb118be485"
 
 [versions]
-forge = "48.1.0"
-minecraft = "1.20.2"
+forge = "36.2.41"
+minecraft = "1.16.5"
