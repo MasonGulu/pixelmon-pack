@@ -21,6 +21,11 @@ hash = "0356009ae37c9c7eca5d839a021fbaca73de03480415fde73089e2c814873406"
 metafile = true
 
 [[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "d31e0d7a5de682cf8456af67efcfb0443a0f5295da54db4f357cba6932c6069c"
+metafile = true
+
+[[files]]
 file = "mods/immersive-engineering.pw.toml"
 hash = "8877652862afaca46d384d624aa036defb3da680a804e2f033019c9794c8c785"
 metafile = true
@@ -38,6 +43,11 @@ metafile = true
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
 hash = "54a05a04fc4c2af06ed779b5269cd001ce8188e825ac11bd8895551d3863285b"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "832f6f63dafbf954a299ecbb5275760ed4b38bd4f67bb95ab30efe9dd9b35d59"
 metafile = true
 
 [[files]]
