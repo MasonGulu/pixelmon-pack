@@ -46,6 +46,11 @@ hash = "54a05a04fc4c2af06ed779b5269cd001ce8188e825ac11bd8895551d3863285b"
 metafile = true
 
 [[files]]
+file = "mods/lazy-dfu-forge.pw.toml"
+hash = "4cbade87fef39ba34f9b459b8d238fa761901c4817db0564ef4dae1a06e4b832"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "832f6f63dafbf954a299ecbb5275760ed4b38bd4f67bb95ab30efe9dd9b35d59"
 metafile = true
@@ -73,6 +78,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "d330360e64d17b89882a0374519fb81c42c850a9c7a9b05454a348ceb132890f"
+metafile = true
+
+[[files]]
+file = "mods/shutup-experimental-settings.pw.toml"
+hash = "bdbf0e89c6bdfcac33f44921835b4a7e7b909214d99badb1d8e15200f836bb90"
 metafile = true
 
 [[files]]
