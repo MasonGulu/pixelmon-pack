@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/starterkit/starterkit-old.txt"
+hash = "fa1ef01da73d615936f9fbc72487745a81dd5384eb65ac437e91c98cd1cd5c0d"
+
+[[files]]
+file = "config/starterkit/starterkit.txt"
+hash = "e1671d3b3e4fe44d9efa1aff5deb283e4d7de9729e8a216c4df8920e71b277dd"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "1e7d9b9a774ad5979818555362dbdf8b2600317c036a0995024ee24d719e34e0"
 metafile = true
