@@ -16,8 +16,8 @@ hash = "3617ee70637d248772600c6fa302ea80fcdda8f3ff48b36837773ef7af6b4928"
 metafile = true
 
 [[files]]
-file = "mods/cc.pw.toml"
-hash = "01dc922a8ed154ef1288c642e65a96c5b0b499639df20f5654381df16fcec180"
+file = "mods/collective.pw.toml"
+hash = "a5af19c3b7903d7891f6afb804d923e3bd699b49c102580ea60c996b11977ee7"
 metafile = true
 
 [[files]]
@@ -123,6 +123,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
 hash = "3f7bdf144b09082021c01cce53753e045f7d2077912057c4f547f3cfe5854e81"
+metafile = true
+
+[[files]]
+file = "mods/starter-kit.pw.toml"
+hash = "c1f256449f8b26e46de35df2c38a9a16a77d57785f975b05970a795e8ad88523"
 metafile = true
 
 [[files]]
