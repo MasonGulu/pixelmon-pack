@@ -6,8 +6,28 @@ hash = "1e7d9b9a774ad5979818555362dbdf8b2600317c036a0995024ee24d719e34e0"
 metafile = true
 
 [[files]]
+file = "mods/ars-nouveau.pw.toml"
+hash = "9a116738043fb2ffffef1ee31556033bd7f2fdf37a7e1c4a7f77a5ac9bb62031"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "3617ee70637d248772600c6fa302ea80fcdda8f3ff48b36837773ef7af6b4928"
+metafile = true
+
+[[files]]
+file = "mods/cc.pw.toml"
+hash = "01dc922a8ed154ef1288c642e65a96c5b0b499639df20f5654381df16fcec180"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "95685d09dcb6fc1247f565a05fb1269052437f23e523b2cfbf3cc50d3908563f"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "64c694ac9aeb74d2a0e843861e51da94f1f1d7ae8d7aa3938ca8c567f718ec99"
 metafile = true
 
 [[files]]
@@ -51,6 +71,11 @@ hash = "4cbade87fef39ba34f9b459b8d238fa761901c4817db0564ef4dae1a06e4b832"
 metafile = true
 
 [[files]]
+file = "mods/mimi-mod.pw.toml"
+hash = "f9389183d9a4be43e7c99209d04c6dc54aefd2b1c2c74aed175acedbc0b254be"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "832f6f63dafbf954a299ecbb5275760ed4b38bd4f67bb95ab30efe9dd9b35d59"
 metafile = true
@@ -61,6 +86,11 @@ hash = "192e5eb18bf16f882593c1a0dfca4343eb23808e60b3fa00adb2afbdd7f7b60f"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "adfaa4397b987d1589056f24fbe6c80d79c56a2a828d151c5a927c60d79a920a"
+metafile = true
+
+[[files]]
 file = "mods/pixelmon-information.pw.toml"
 hash = "57c6d890c4bac536932fac2a23897411f05780d0bff2b1aebc6cae5b90f9498a"
 metafile = true
@@ -68,6 +98,11 @@ metafile = true
 [[files]]
 file = "mods/pixelmon.pw.toml"
 hash = "0e91cfb9af96c979c424cdeba8c9487e4d82af768a40362074698bf5449fc253"
+metafile = true
+
+[[files]]
+file = "mods/placebo.pw.toml"
+hash = "8909f6b209fce7c52d625bc9ad4cb5b2116e4823dd75a71e9a8f5a546d1d0f94"
 metafile = true
 
 [[files]]
@@ -88,6 +123,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
 hash = "3f7bdf144b09082021c01cce53753e045f7d2077912057c4f547f3cfe5854e81"
+metafile = true
+
+[[files]]
+file = "mods/toast-control.pw.toml"
+hash = "bad023f10c1f3d68273578e04239f7f97abd8af557744c36c848583b3996fc67"
 metafile = true
 
 [[files]]
