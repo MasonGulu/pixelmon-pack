@@ -76,11 +76,6 @@ hash = "4cbade87fef39ba34f9b459b8d238fa761901c4817db0564ef4dae1a06e4b832"
 metafile = true
 
 [[files]]
-file = "mods/mimi-mod.pw.toml"
-hash = "f9389183d9a4be43e7c99209d04c6dc54aefd2b1c2c74aed175acedbc0b254be"
-metafile = true
-
-[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "832f6f63dafbf954a299ecbb5275760ed4b38bd4f67bb95ab30efe9dd9b35d59"
 metafile = true
