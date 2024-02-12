@@ -69,6 +69,11 @@ hash = "ff92a5ec91aef6655e13bcdf2d6246e701e0e8cf743ec0f69a04a84d6b0b5635"
 metafile = true
 
 [[files]]
+file = "mods/journeymap.pw.toml"
+hash = "a066fbaa6c43916832063ff206068db1eba7ada8ef40122a136dbf053c2b48fb"
+metafile = true
+
+[[files]]
 file = "mods/just-enough-immersive-multiblocks.pw.toml"
 hash = "7205424e2988e8764a03e36a2ff32a47eeda5b38ef89e7b0d09b4094e8770d00"
 metafile = true
@@ -89,8 +94,8 @@ hash = "832f6f63dafbf954a299ecbb5275760ed4b38bd4f67bb95ab30efe9dd9b35d59"
 metafile = true
 
 [[files]]
-file = "mods/mouse-tweaks.pw.toml"
-hash = "192e5eb18bf16f882593c1a0dfca4343eb23808e60b3fa00adb2afbdd7f7b60f"
+file = "mods/natures-compass.pw.toml"
+hash = "cca1d003d1f4ff138be6a04cedac1f97e1f4a85862d5958d97aed82e951a78ff"
 metafile = true
 
 [[files]]
