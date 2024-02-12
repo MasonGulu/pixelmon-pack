@@ -69,11 +69,6 @@ hash = "ff92a5ec91aef6655e13bcdf2d6246e701e0e8cf743ec0f69a04a84d6b0b5635"
 metafile = true
 
 [[files]]
-file = "mods/journeymap.pw.toml"
-hash = "a066fbaa6c43916832063ff206068db1eba7ada8ef40122a136dbf053c2b48fb"
-metafile = true
-
-[[files]]
 file = "mods/just-enough-immersive-multiblocks.pw.toml"
 hash = "7205424e2988e8764a03e36a2ff32a47eeda5b38ef89e7b0d09b4094e8770d00"
 metafile = true
@@ -155,10 +150,10 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "e5078c25ec4fc44a93b264fabf050b7f4da743eab8554e81004d9d905755e6fa"
+hash = "9f6abc788aec45251a1cf04c366b11b5956c65d64f7bc28cda2ebad00005b152"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "1ad27bc19957821ae6224d08256da72144c0b7b98005cc5439c26f9380d5abfd"
+hash = "39629377e9418fc46fa3373aeb98268860908d656888b4b68bcf21ddac450933"
 metafile = true
