@@ -152,3 +152,13 @@ metafile = true
 file = "mods/waystones.pw.toml"
 hash = "4931c4e65980ea1a95a61b35b18e7e893d59befce9c0764c387aa7773c44b15f"
 metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "e5078c25ec4fc44a93b264fabf050b7f4da743eab8554e81004d9d905755e6fa"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "1ad27bc19957821ae6224d08256da72144c0b7b98005cc5439c26f9380d5abfd"
+metafile = true
