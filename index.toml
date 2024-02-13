@@ -19,11 +19,6 @@ hash = "9a116738043fb2ffffef1ee31556033bd7f2fdf37a7e1c4a7f77a5ac9bb62031"
 metafile = true
 
 [[files]]
-file = "mods/bluemap.pw.toml"
-hash = "58b3653ffdd56c383e927a3fa5b1526667c2640c49aca775eeafafc789bc49da"
-metafile = true
-
-[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "3617ee70637d248772600c6fa302ea80fcdda8f3ff48b36837773ef7af6b4928"
 metafile = true
