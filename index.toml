@@ -19,6 +19,11 @@ hash = "9a116738043fb2ffffef1ee31556033bd7f2fdf37a7e1c4a7f77a5ac9bb62031"
 metafile = true
 
 [[files]]
+file = "mods/bluemap.pw.toml"
+hash = "0b54611d15110fd4bd15d5df01f4235e59787f873c71faec84de1596b264ec39"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "3617ee70637d248772600c6fa302ea80fcdda8f3ff48b36837773ef7af6b4928"
 metafile = true
@@ -86,6 +91,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "832f6f63dafbf954a299ecbb5275760ed4b38bd4f67bb95ab30efe9dd9b35d59"
+metafile = true
+
+[[files]]
+file = "mods/morpheus.pw.toml"
+hash = "82a846bee25a735c99df699510d0757a7e7745f8ce436210bd27362bd0df3c69"
 metafile = true
 
 [[files]]
