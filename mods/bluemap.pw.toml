@@ -1,5 +1,6 @@
 name = "BlueMap"
 filename = "BlueMap-3.16-forge-1.16.5.jar"
+side = "server"
 
 [download]
 hash-format = "sha1"

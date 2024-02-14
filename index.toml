@@ -20,7 +20,7 @@ metafile = true
 
 [[files]]
 file = "mods/bluemap.pw.toml"
-hash = "f6264fc3d5c9f97f7129eedf80527c9ae3c24c9b76ae09a5fad6fe62c20414a8"
+hash = "58b3653ffdd56c383e927a3fa5b1526667c2640c49aca775eeafafc789bc49da"
 metafile = true
 
 [[files]]
