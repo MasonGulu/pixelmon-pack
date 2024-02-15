@@ -129,6 +129,11 @@ hash = "8b80951a6a78f26b1e0ba54d1193cfc63743001fc4f105b30ca5bc4f67dcb05b"
 metafile = true
 
 [[files]]
+file = "mods/quickteleports.pw.toml"
+hash = "a94244fc4afe5008afccf1f147cca9a243017107d75df319e288806eff85fa0d"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "d330360e64d17b89882a0374519fb81c42c850a9c7a9b05454a348ceb132890f"
 metafile = true
