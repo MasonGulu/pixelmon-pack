@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/pixelmon/breeding.yml"
+hash = "b5b283fca73fd0a944ebe2a60aeddc6182c92835a14227a6352c32ed7a26c9e5"
+
+[[files]]
+file = "config/pixelmon/config.yml"
+hash = "c1f57b8077d9afc8cf69f46c4924c3709f9835a6a87617cc3495be1737c6a4a4"
+
+[[files]]
 file = "config/starterkit/starterkit-old.txt"
 hash = "fa1ef01da73d615936f9fbc72487745a81dd5384eb65ac437e91c98cd1cd5c0d"
 
