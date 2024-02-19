@@ -17,6 +17,11 @@ file = "config/starterkit/starterkit.txt"
 hash = "e1671d3b3e4fe44d9efa1aff5deb283e4d7de9729e8a216c4df8920e71b277dd"
 
 [[files]]
+file = "mods/ai-improvements.pw.toml"
+hash = "78a2974be4ca1553dc4d339f6ebe6eee69e3113389b2fea2667a3678cf207c29"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "1e7d9b9a774ad5979818555362dbdf8b2600317c036a0995024ee24d719e34e0"
 metafile = true
