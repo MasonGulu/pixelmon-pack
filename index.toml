@@ -185,3 +185,7 @@ metafile = true
 file = "mods/xaeros-world-map.pw.toml"
 hash = "39629377e9418fc46fa3373aeb98268860908d656888b4b68bcf21ddac450933"
 metafile = true
+
+[[files]]
+file = "resourcepacks/Pixelmon Ribbon Resourcepack/assets/minecraft/lang/en_us.lang"
+hash = "a4af3218e9126046f87eaf5581b9fcbf3d0bf5fb78ecd28565d0932e01fdd1d8"
