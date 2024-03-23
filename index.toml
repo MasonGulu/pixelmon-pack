@@ -48,7 +48,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "95685d09dcb6fc1247f565a05fb1269052437f23e523b2cfbf3cc50d3908563f"
+hash = "27e31a0bc67483d1ad3e3f323b15ef2e65498452234cf255ed5aa1aa11507bf4"
 metafile = true
 
 [[files]]
@@ -102,13 +102,23 @@ hash = "54a05a04fc4c2af06ed779b5269cd001ce8188e825ac11bd8895551d3863285b"
 metafile = true
 
 [[files]]
+file = "mods/just-zoom-forge.pw.toml"
+hash = "b8f5919c8228f6de0a0c05ca663e82e8bcbd85cb9bbfd90b19bf4949b7517dc1"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "b06e20020bb69ae3456c4cc9039af550efda0976fbf16d635a32f2f0e1e7250f"
+metafile = true
+
+[[files]]
 file = "mods/lazy-dfu-forge.pw.toml"
 hash = "4cbade87fef39ba34f9b459b8d238fa761901c4817db0564ef4dae1a06e4b832"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "832f6f63dafbf954a299ecbb5275760ed4b38bd4f67bb95ab30efe9dd9b35d59"
+hash = "ceb0d42645e71208b64a7a56f103f4865a0582092885f03cd576a42a0e14d088"
 metafile = true
 
 [[files]]
@@ -178,12 +188,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "9f6abc788aec45251a1cf04c366b11b5956c65d64f7bc28cda2ebad00005b152"
+hash = "a36467edcead515cc0c0aec6b909278574d18b2376676e6b0205ee8ac5f6a04c"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "39629377e9418fc46fa3373aeb98268860908d656888b4b68bcf21ddac450933"
+hash = "888e46dfddf0642f48d37cfdd81d364328af1eb238dee78ff9677d0886839868"
 metafile = true
 
 [[files]]
